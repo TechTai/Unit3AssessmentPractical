@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">LoopActivity</string>
-    <string name="assessment">End of Unit 3 Assessment - Day2</string>
+    <string name="assessment">End of Unit 3 Assessment - Day 2</string>
+    <string name="title_activity_login">LoginActivity</string>
 </resources>

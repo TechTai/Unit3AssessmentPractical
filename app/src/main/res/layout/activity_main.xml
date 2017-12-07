@@ -10,6 +10,7 @@
     tools:context="nyc.c4q.loopactivity.MainActivity">
 
     <TextView
+        android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/assessment"

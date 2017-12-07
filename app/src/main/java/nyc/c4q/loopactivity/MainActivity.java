@@ -70,4 +70,12 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
+
+    public void itemClicked(long id){
+        View fragmentContainer = findViewById(R.id.fragmentContainer);
+        if (fragmentContainer != null) {
+            LoginFragment loginFragment = new LoginFragment();
+            loginFragment.set
+        }
+    }
 }
